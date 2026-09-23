@@ -1,4 +1,4 @@
-# SInstalls the quantmod package, which is used for financial data retrieval and analysis
+# Installs the quantmod package, which is used for financial data retrieval and analysis
 install.packages("quantmod")
 
 # Installs the PerformanceAnalytics package, which provides tools for return and risk analysis
